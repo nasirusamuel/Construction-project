@@ -1,19 +1,23 @@
-body{
-    background: #d2eaf4 !important;
+body {
+  background: #d2eaf4 !important;
 }
 
-.caption{
-    margin-bottom: 300px;
+.caption {
+  margin-bottom: 300px;
 }
 
-.about-img{
- height: 400px;
- width: 350px;
+.about-img {
+  height: 400px;
+  width: 350px;
 }
 
-.margint{
-    margin-top: 200px;
+.margint {
+  margin-top: 200px;
 }
-.margin-card{
-    margin-left: 200px;
+.margin-card {
+  /* margin-left: 200px; */
 }
+/* 
+.mepp {
+} */
+
